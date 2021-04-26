@@ -43,6 +43,7 @@
 2. 点击右上角的 `fork`，`fork` 本项目到自己仓库中
 
    
+   
 
    ![](https://cdn.jsdelivr.net/gh/ReaJason/17wanxiaoCheckin-Actions/Pictures/click_fork.png)
 
